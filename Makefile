@@ -1,7 +1,7 @@
-a.out:
+compile:
         gcc code.c
 
 clean:
-        rm code
+        rm a.out
 
-test: a.out
+test: compile
