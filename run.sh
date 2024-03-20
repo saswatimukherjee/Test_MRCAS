@@ -1,1 +1,2 @@
+make test
 ./a.out
